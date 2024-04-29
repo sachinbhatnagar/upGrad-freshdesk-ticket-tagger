@@ -1,4 +1,4 @@
-# KnowledgeHut - Freshdesk Ticket Tagging
+# upGrad - Freshdesk Ticket Tagging
 
 ## Installation
 
